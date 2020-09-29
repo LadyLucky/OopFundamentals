@@ -1,0 +1,5 @@
+One answer only: What color is the sky?/A.Blue/B.Purple/C.Green/D.White
+One answer only: What is the capital of the U.S.? /A.Seattle/B.Los Angeles/C.Washington D.C/D.New York/E.Chicago
+True or False: There are 80 known moons of Jupiter. /A.True/B.False
+Multiple Answers may apply: Which of these are dog breeds?/A.Scottish Fold/B.Beagle/C.Maine Coon/D.Great Dane/E.German Shepherd
+Multiple Answers may apply: Which of these are fruit?/A.Tomatos/B.Potatos/C.Avocados/D.Coconuts/E.Onions

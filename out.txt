@@ -1,0 +1,392 @@
+Configuring Student participants and Bank of Questions!
+There are 10 students participating.
+359510: Morgan Freeman
+925711: RedRocketRyan
+513812: DoggieDoLittleDandy
+739013: xX_69ONESHOTMONSTER69_Xx
+287014: sMo0tH5n0Op420
+817915: HackerMan
+273416: Tim Green
+31517: lkjhlkjhb
+517818: VixenWinston
+494019: G
+
+Question #1
+One answer only: What color is the sky?
+A.Blue
+B.Purple
+C.Green
+D.White
+
+DoggieDoLittleDandy has chosen their answer!
+xX_69ONESHOTMONSTER69_Xx has chosen their answer!
+DoggieDoLittleDandy decided to change their answer!
+sMo0tH5n0Op420 has chosen their answer!
+RedRocketRyan has chosen their answer!
+DoggieDoLittleDandy decided to change their answer!
+sMo0tH5n0Op420 decided to change their answer!
+sMo0tH5n0Op420 decided to change their answer!
+VixenWinston has chosen their answer!
+Morgan Freeman has chosen their answer!
+Tim Green has chosen their answer!
+Tim Green decided to change their answer!
+xX_69ONESHOTMONSTER69_Xx decided to change their answer!
+
+Question 1: 
+-------------------------------------------------
+Student: Morgan Freeman
+Answered: D
+Their answer was not Correct!
+
+Student: RedRocketRyan
+Answered: B
+Their answer was not Correct!
+
+Student: DoggieDoLittleDandy
+Answered: D
+Their answer was not Correct!
+
+Student: xX_69ONESHOTMONSTER69_Xx
+Answered: B
+Their answer was not Correct!
+
+Student: sMo0tH5n0Op420
+Answered: B
+Their answer was not Correct!
+
+Student: HackerMan
+Answered: 
+They did not answer the question... Next time!
+
+Student: Tim Green
+Answered: E
+Their answer was not Correct!
+
+Student: lkjhlkjhb
+Answered: 
+They did not answer the question... Next time!
+
+Student: VixenWinston
+Answered: C
+Their answer was not Correct!
+
+Student: G
+Answered: 
+They did not answer the question... Next time!
+
+-------------------------------------------------
+ *** STATS: *** 
+The question was, One answer only: What color is the sky?
+The correct answer is: A.Blue
+0 students answered correctly, that is 0%
+7 students answered incorrectly, that is 70%
+3 number of students didnt answer, that is 30%
+-------------------------------------------------
+Question #2
+One answer only: What is the capital of the U.S.? 
+A.Seattle
+B.Los Angeles
+C.Washington D.C
+D.New York
+E.Chicago
+
+DoggieDoLittleDandy has chosen their answer!
+lkjhlkjhb has chosen their answer!
+Morgan Freeman has chosen their answer!
+RedRocketRyan has chosen their answer!
+G has chosen their answer!
+Tim Green has chosen their answer!
+Tim Green decided to change their answer!
+G decided to change their answer!
+G decided to change their answer!
+VixenWinston has chosen their answer!
+Tim Green decided to change their answer!
+HackerMan has chosen their answer!
+Morgan Freeman decided to change their answer!
+Morgan Freeman decided to change their answer!
+RedRocketRyan decided to change their answer!
+G decided to change their answer!
+DoggieDoLittleDandy decided to change their answer!
+
+Question 2: 
+-------------------------------------------------
+Student: Morgan Freeman
+Answered: E
+Their answer was not Correct!
+
+Student: RedRocketRyan
+Answered: B
+Their answer was not Correct!
+
+Student: DoggieDoLittleDandy
+Answered: D
+Their answer was not Correct!
+
+Student: xX_69ONESHOTMONSTER69_Xx
+Answered: B
+Their answer was not Correct!
+
+Student: sMo0tH5n0Op420
+Answered: B
+Their answer was not Correct!
+
+Student: HackerMan
+Answered: C
+Their answer was Correct!
+
+Student: Tim Green
+Answered: C
+Their answer was Correct!
+
+Student: lkjhlkjhb
+Answered: B
+Their answer was not Correct!
+
+Student: VixenWinston
+Answered: E
+Their answer was not Correct!
+
+Student: G
+Answered: E
+Their answer was not Correct!
+
+-------------------------------------------------
+ *** STATS: *** 
+The question was, One answer only: What is the capital of the U.S.? 
+The correct answer is: C.Washington D.C
+2 students answered correctly, that is 20%
+8 students answered incorrectly, that is 80%
+0 number of students didnt answer, that is 0%
+-------------------------------------------------
+Question #3
+True or False: There are 80 known moons of Jupiter. 
+A.True
+B.False
+
+RedRocketRyan has chosen their answer!
+Tim Green has chosen their answer!
+lkjhlkjhb has chosen their answer!
+VixenWinston has chosen their answer!
+sMo0tH5n0Op420 has chosen their answer!
+sMo0tH5n0Op420 decided to change their answer!
+lkjhlkjhb decided to change their answer!
+xX_69ONESHOTMONSTER69_Xx has chosen their answer!
+Tim Green decided to change their answer!
+lkjhlkjhb decided to change their answer!
+Tim Green decided to change their answer!
+Morgan Freeman has chosen their answer!
+xX_69ONESHOTMONSTER69_Xx decided to change their answer!
+lkjhlkjhb decided to change their answer!
+Tim Green decided to change their answer!
+sMo0tH5n0Op420 decided to change their answer!
+VixenWinston decided to change their answer!
+HackerMan has chosen their answer!
+
+Question 3: 
+-------------------------------------------------
+Student: Morgan Freeman
+Answered: B
+Their answer was Correct!
+
+Student: RedRocketRyan
+Answered: A
+Their answer was not Correct!
+
+Student: DoggieDoLittleDandy
+Answered: D
+Their answer was not Correct!
+
+Student: xX_69ONESHOTMONSTER69_Xx
+Answered: B
+Their answer was Correct!
+
+Student: sMo0tH5n0Op420
+Answered: A
+Their answer was not Correct!
+
+Student: HackerMan
+Answered: B
+Their answer was Correct!
+
+Student: Tim Green
+Answered: A
+Their answer was not Correct!
+
+Student: lkjhlkjhb
+Answered: B
+Their answer was Correct!
+
+Student: VixenWinston
+Answered: A
+Their answer was not Correct!
+
+Student: G
+Answered: E
+Their answer was not Correct!
+
+-------------------------------------------------
+ *** STATS: *** 
+The question was, True or False: There are 80 known moons of Jupiter. 
+The correct answer is: B.False
+4 students answered correctly, that is 40%
+6 students answered incorrectly, that is 60%
+0 number of students didnt answer, that is 0%
+-------------------------------------------------
+Question #4
+Multiple Answers may apply: Which of these are dog breeds?
+A.Scottish Fold
+B.Beagle
+C.Maine Coon
+D.Great Dane
+E.German Shepherd
+
+VixenWinston has chosen their answer!
+Tim Green has chosen their answer!
+Morgan Freeman has chosen their answer!
+Tim Green decided to change their answer!
+G has chosen their answer!
+RedRocketRyan has chosen their answer!
+sMo0tH5n0Op420 has chosen their answer!
+sMo0tH5n0Op420 decided to change their answer!
+DoggieDoLittleDandy has chosen their answer!
+G decided to change their answer!
+G decided to change their answer!
+Tim Green decided to change their answer!
+Tim Green decided to change their answer!
+Morgan Freeman decided to change their answer!
+VixenWinston decided to change their answer!
+RedRocketRyan decided to change their answer!
+xX_69ONESHOTMONSTER69_Xx has chosen their answer!
+
+Question 4: 
+-------------------------------------------------
+Student: Morgan Freeman
+Answered: A,B,
+Their answer was not Correct!
+
+Student: RedRocketRyan
+Answered: D,
+Their answer was not Correct!
+
+Student: DoggieDoLittleDandy
+Answered: C,E,
+Their answer was not Correct!
+
+Student: xX_69ONESHOTMONSTER69_Xx
+Answered: A,D,E,
+Their answer was not Correct!
+
+Student: sMo0tH5n0Op420
+Answered: C,D,E,
+Their answer was not Correct!
+
+Student: HackerMan
+Answered: B
+Their answer was not Correct!
+
+Student: Tim Green
+Answered: A,C,D,E,
+Their answer was not Correct!
+
+Student: lkjhlkjhb
+Answered: B
+Their answer was not Correct!
+
+Student: VixenWinston
+Answered: B,C,E,
+Their answer was not Correct!
+
+Student: G
+Answered: A,C,
+Their answer was not Correct!
+
+-------------------------------------------------
+ *** STATS: *** 
+The question was, Multiple Answers may apply: Which of these are dog breeds?
+The correct answer is: B.Beagle
+0 students answered correctly, that is 0%
+10 students answered incorrectly, that is 100%
+0 number of students didnt answer, that is 0%
+-------------------------------------------------
+Question #5
+Multiple Answers may apply: Which of these are fruit?
+A.Tomatos
+B.Potatos
+C.Avocados
+D.Coconuts
+E.Onions
+
+xX_69ONESHOTMONSTER69_Xx has chosen their answer!
+lkjhlkjhb has chosen their answer!
+Tim Green has chosen their answer!
+RedRocketRyan has chosen their answer!
+Morgan Freeman has chosen their answer!
+HackerMan has chosen their answer!
+RedRocketRyan decided to change their answer!
+xX_69ONESHOTMONSTER69_Xx decided to change their answer!
+HackerMan decided to change their answer!
+HackerMan decided to change their answer!
+HackerMan decided to change their answer!
+
+Question 5: 
+-------------------------------------------------
+Student: Morgan Freeman
+Answered: A,B,D,E,
+Their answer was not Correct!
+
+Student: RedRocketRyan
+Answered: C,E,
+Their answer was not Correct!
+
+Student: DoggieDoLittleDandy
+Answered: C,E,
+Their answer was not Correct!
+
+Student: xX_69ONESHOTMONSTER69_Xx
+Answered: A,
+Their answer was not Correct!
+
+Student: sMo0tH5n0Op420
+Answered: C,D,E,
+Their answer was not Correct!
+
+Student: HackerMan
+Answered: B,C,E,
+Their answer was not Correct!
+
+Student: Tim Green
+Answered: A,C,D,E,
+Their answer was not Correct!
+
+Student: lkjhlkjhb
+Answered: A,D,
+Their answer was not Correct!
+
+Student: VixenWinston
+Answered: B,C,E,
+Their answer was not Correct!
+
+Student: G
+Answered: A,C,
+Their answer was not Correct!
+
+-------------------------------------------------
+ *** STATS: *** 
+The question was, Multiple Answers may apply: Which of these are fruit?
+The correct answer is: C.Avocados
+0 students answered correctly, that is 0%
+10 students answered incorrectly, that is 100%
+0 number of students didnt answer, that is 0%
+-------------------------------------------------
+Students: 
+Morgan Freeman: 1 correct answers!
+RedRocketRyan: 0 correct answers!
+DoggieDoLittleDandy: 0 correct answers!
+xX_69ONESHOTMONSTER69_Xx: 1 correct answers!
+sMo0tH5n0Op420: 0 correct answers!
+HackerMan: 2 correct answers!
+Tim Green: 1 correct answers!
+lkjhlkjhb: 1 correct answers!
+VixenWinston: 0 correct answers!
+G: 0 correct answers!
+HackerMan, looks like these are the winners! They got the highest score of 2 correct answers!
